@@ -4,6 +4,8 @@ Cálculo dos parâmetros de malhas de aterramento conforme o exemplo do livro
 
 - MAMEDE FILHO, J. Instalações Elétricas Industriais – LTC – 9a ed., 2017
 
+- ABNT NBR 7117-1
+
 ## Observações importantes
 
 ** Qualquer análise de resistência de aterramento deve ser feita por profissional qualificado, habilitado e capacitado. Sob pena das aplicações das sanções previstas na legislação. **

@@ -10,6 +10,11 @@ Cálculo dos parâmetros de malhas de aterramento conforme o exemplo do livro
 
 ## Arquivos
 
+Aterramento_malha - Utiliza o método mostrado no livro do Mamede
+
+Cálculo das resistências - Utiliza o método da ABNT NBR 7117-1
+
+
 ### Resistividade
 
 Tabela de cálculo da resistividade do solo a partir das medições de sondagem geolétrica.

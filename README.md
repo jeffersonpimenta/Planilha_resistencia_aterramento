@@ -4,7 +4,7 @@ Cálculo dos parâmetros de malhas de aterramento conforme o exemplo do livro
 
 - MAMEDE FILHO, J. Instalações Elétricas Industriais – LTC – 9a ed., 2017
 
-- ABNT NBR 7117-1
+- ABNT NBR 15751
 
 ## Observações importantes
 
